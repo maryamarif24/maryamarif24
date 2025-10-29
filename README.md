@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Maryam Arif — a passionate developer and designer<br>💻 I work with Python, TypeScript, Next.js, Streamlit, and OpenAI Agents SDK<br>🧠 Currently exploring Agentic AI, building tools with uv and function tools<br>🎯 Focused on AI agents, web development, and developer experience<br>🌱 Learning new technologies, building real-world projects, and sharing knowledge<br>
+👋 Hi, I’m Maryam Arif — a passionate developer and designer<br>📚 Completed O-Levels from <b>The Anchorage School</b> <br> 📚 Currently pursuing A-Levels from International Grammar School <br>💻 I work with Python, TypeScript, Next.js, Streamlit, and OpenAI Agents SDK<br>🧠 Currently exploring Agentic AI, building tools with uv and function tools<br>🎯 Focused on AI agents, web development, and developer experience<br>🌱 Learning new technologies, building real-world projects, and sharing knowledge<br>
 
 
 ## 🌐 Socials:
