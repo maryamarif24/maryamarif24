@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Maryam Arif — a passionate developer and designer<br>💻 I work with Python, TypeScript, Next.js, and Streamlit<br>🧠 Currently exploring Agentic AI, building tools with uv and function tools<br>🎯 Focused on AI agents, web development, and developer experience<br>🌱 Learning new technologies, building real-world projects, and sharing knowledge<br>
+👋 Hi, I’m Maryam Arif — a passionate developer and designer<br>💻 I work with Python, TypeScript, Next.js, Streamlit, and OpenAI Agents SDK<br>🧠 Currently exploring Agentic AI, building tools with uv and function tools<br>🎯 Focused on AI agents, web development, and developer experience<br>🌱 Learning new technologies, building real-world projects, and sharing knowledge<br>
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=maryamarif24&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
