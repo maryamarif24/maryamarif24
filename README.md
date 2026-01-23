@@ -1,10 +1,19 @@
-<h1 align="center">
-  <span style="color:#ff4da6">Maryam</span>
-</h1>
-
 <p align="center">
-  <b>Full-Stack Web Developer</b> • CEO & Founder at <b>Nexe-Agent</b>
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &weight=800
+    &size=38
+    &pause=1500
+    &color=FF4DA6
+    &center=true
+    &vCenter=true
+    &width=800
+    &lines=Maryam;
+    Full-Stack+Web+Developer;
+    CEO+%26+Founder+at+Nexe-Agent;
+    Building+AI+Powered+Products" />
 </p>
+
 
 
 # 💫 About Me:
