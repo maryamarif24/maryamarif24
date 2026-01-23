@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &weight=800
-    &size=38
-    &pause=1500
-    &color=FF4DA6
-    &center=true
-    &vCenter=true
-    &width=800
-    &lines=Maryam;
-    Full-Stack+Web+Developer;
-    CEO+%26+Founder+at+Nexe-Agent;
-    Building+AI+Powered+Products" />
-</p>
+
 
 
 
