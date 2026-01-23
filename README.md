@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &weight=700
+    &size=32
+    &duration=3000
+    &pause=1000
+    &color=FF4DA6
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Maryam;
+    Full-Stack+Web+Developer;
+    CEO+%26+Founder+at+Nexe-Agent" />
+</p>
+
+
 <!-- Profile Header -->
 <div align="center" style="background-color:#000000; padding:30px; border-radius:12px;">
   <h1 style="color:#ff4da6; font-weight:800; margin-bottom:8px;">
