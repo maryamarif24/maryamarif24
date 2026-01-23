@@ -1,29 +1,10 @@
+<h1 align="center">
+  <span style="color:#ff4da6">Maryam</span>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &weight=700
-    &size=32
-    &duration=3000
-    &pause=1000
-    &color=FF4DA6
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Maryam;
-    Full-Stack+Web+Developer;
-    CEO+%26+Founder+at+Nexe-Agent" />
+  <b>Full-Stack Web Developer</b> • CEO & Founder at <b>Nexe-Agent</b>
 </p>
-
-
-<!-- Profile Header -->
-<div align="center" style="background-color:#000000; padding:30px; border-radius:12px;">
-  <h1 style="color:#ff4da6; font-weight:800; margin-bottom:8px;">
-    Maryam
-  </h1>
-  <p style="color:#ffffff; font-size:16px; margin-top:0;">
-    Full-Stack Web Developer • CEO & Founder at <span style="color:#ff4da6;"><b>Nexe-Agent</b></span>
-  </p>
-</div>
 
 
 # 💫 About Me:
