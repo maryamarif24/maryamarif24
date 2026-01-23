@@ -1,3 +1,14 @@
+<!-- Profile Header -->
+<div align="center" style="background-color:#000000; padding:30px; border-radius:12px;">
+  <h1 style="color:#ff4da6; font-weight:800; margin-bottom:8px;">
+    Maryam
+  </h1>
+  <p style="color:#ffffff; font-size:16px; margin-top:0;">
+    Full-Stack Web Developer • CEO & Founder at <span style="color:#ff4da6;"><b>Nexe-Agent</b></span>
+  </p>
+</div>
+
+
 # 💫 About Me:
 👋 Hi, I’m Maryam Arif — a passionate developer and designer<br>📚 Completed O-Levels from <b>The Anchorage School</b> <br> 📚 Currently pursuing A-Levels from <b>The Avicenna School</b> <br>💻 I work with Python, TypeScript, Next.js, Streamlit, and OpenAI Agents SDK<br>🧠 Currently exploring Agentic AI, building tools with uv and function tools<br>🎯 Focused on AI agents, web development, and developer experience<br>🌱 Learning new technologies, building real-world projects, and sharing knowledge<br> 📌 CEO at NexaAgent — leading and managing all operations, guiding team members, ensuring project alignment, and driving excellence. Successfully executed 5+ impactful projects with my team through strategic direction and collaboration. 
 
