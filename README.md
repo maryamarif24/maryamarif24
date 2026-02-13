@@ -55,6 +55,12 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=maryamarif24&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=maryamarif24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 ---
 
 <p align="center">
