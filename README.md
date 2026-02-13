@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=#f71ea4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Maryam+Arif;CEO+at+Nexe-Agent;Agentic+AI+Developer;Full+Stack+Engineer" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=#F71EA4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Maryam+Arif;CEO+at+Nexe-Agent;Agentic+AI+Developer;Full+Stack+Engineer" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/developer.gif" width="300" />
