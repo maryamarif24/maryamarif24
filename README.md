@@ -7,12 +7,12 @@
 ## 💫 About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=maryamarif24&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="380" />
 
-- 👋 **Hi, I’m Maryam Arif** — a passionate developer and designer.
-- 📌 **CEO at Nexe-Agent** — leading operations and driving excellence through strategic AI direction.
-- 💻 **Tech Stack:** Python, TypeScript, Next.js, and OpenAI Agents SDK.
-- 🧠 **Currently Exploring:** Agentic AI, building tools with `uv` and function calling.
-- 🎓 **Education:** O-Levels (The Anchorage School) & A-Levels (The Avicenna School).
-- 🎯 **Focus:** AI agents, web development, and developer experience.
+- **Hi, I’m Maryam Arif** — a passionate developer and designer.
+- **CEO at Nexe-Agent** — leading operations and driving excellence through strategic AI direction.
+- **Tech Stack:** Python, TypeScript, Next.js, and OpenAI Agents SDK.
+- **Currently Exploring:** Agentic AI, building tools with `uv` and function calling.
+- **Education:** O-Levels (The Anchorage School) & A-Levels (The Avicenna School).
+- **Focus:** AI agents, web development, and developer experience.
 
 <br/>
 
@@ -21,7 +21,7 @@
 <a href="https://www.facebook.com/profile.php?id=100089859591355" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://instagram.com/maryam.arif._" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/maryam-arif-71b0992b5" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://youtube.com/@Studifinity" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://youtube.com/@maryamarif24" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="mailto:maryamarif1313@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
